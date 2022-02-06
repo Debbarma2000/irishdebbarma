@@ -40,9 +40,9 @@ Secondary; Agartala, Tripura, India.
 
 ## **Positions held**
 
-- National Cadet Corps (NCC) cadet (2014-2016); <span style="color: green">Holy Cross School, Agartala, Tripura, India</span>
-- Assistant School Pupil Leader (2016-2017); <span style="color: green">Holy Cross School, Agartala, Tripura, India</span>
-- Logistics Coordinator ; <span style="color: green">Pravega 2021</span> 
+- National Cadet Corps (NCC) cadet (2014-2016); <span style="color: magenta">Holy Cross School, Agartala, Tripura, India</span>
+- Assistant School Pupil Leader (2016-2017); <span style="color: magenta">Holy Cross School, Agartala, Tripura, India</span>
+- Logistics Coordinator ; <span style="color: magenta">Pravega 2021</span> 
 - Football Club Convener (2021-2022); <span style="color: green">IISc, Bangalore</span>  
 
 ## **Miscellaneous**
