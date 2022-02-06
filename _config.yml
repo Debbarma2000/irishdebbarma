@@ -6,14 +6,14 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  name: Irish Debbarma
+  avatar: profile_pic.jpg
+  bio: "3rd year Undergraduate at Indian Institute of Science, Bangalore"
+  email: irishd@iisc.ac.in
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
-  linkedin: #username
-  github: #username
+  twitter: bourbakirish
+  linkedin: http://linkedin.com/in/irish-debbarma-b007701a5
+  github: https://debbarma2000.github.io/irishdebbarma/
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -23,7 +23,7 @@ owner:
     verify:
     scholar: #id
   facebook: #username
-  instagram: #username
+  instagram: irish_debbarma
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
