@@ -7,12 +7,12 @@ menuorder: 1
 
 I am Irish Debbarma, a 3rd year Undergraduate at the Indian Institute of Science, Bangalore. I am majoring in mathematics from the Mathematics Department. I am from the state of Tripura in the North-Eastern part of India. 
 
-I am also interested in reading about history, geopolitics and related topics. 
+Besides math, I am also interested in reading about history, geopolitics and related topics. 
 
 I am a regular football player with loyalties to no club. I enjoy cycling and travelling as well.
 
 ## Research Interests
-Although I am fairly interested in anything in algebra, I am specifically interested in the followin topics
+Although I am fairly interested in anything in algebra, the following topics interest me a lot and I would like to read more about them.
  - Analytic Number theory, modular forms and L-functions
  - Algebraic number theory, reciprocity laws
  - L-functions in p-adic settings, cyclotomic fields and Iwasawa theory
