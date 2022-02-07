@@ -34,16 +34,16 @@ Secondary; Agartala, Tripura, India.
 
 ## **Projects**
 
-- Summer 2020 : Math reading project under Professor B.Sury of Indian Statistical Institute, Bangalore on <span style="color: green">Binary Qudratic Forms</span>
-- Summer 2021 : Math reading project under Professor Venkatesh Rajendran of Indian Institute of Science, Bangalore on <span style="color: green">Zero Sum Problems</span> 
-- Winter 2020 - ongoing : Math reading project under Professor Shaunak Deo of Indian Institute of Science, Bangalore on <span style="color: green">Cubic and Biquadratic Reciprocity laws</span>
+- Summer 2020 : Math reading project under Professor B.Sury of Indian Statistical Institute, Bangalore on <span style="color: brown">Binary Qudratic Forms</span>
+- Summer 2021 : Math reading project under Professor Venkatesh Rajendran of Indian Institute of Science, Bangalore on <span style="color: brown">Zero Sum Problems</span> 
+- Winter 2021 - ongoing : Math reading project under Professor Shaunak Deo of Indian Institute of Science, Bangalore on <span style="color: brown">Cubic and Biquadratic Reciprocity laws</span>
 
 ## **Positions held**
 
-- National Cadet Corps (NCC) cadet (2014-2016); <span style="color: magenta">Holy Cross School, Agartala, Tripura, India</span>
+- National Cadet Corps (NCC) cadet (2014-2016); <span style="color: brown">Holy Cross School, Agartala, Tripura, India</span>
 - Assistant School Pupil Leader (2016-2017); <span style="color: magenta">Holy Cross School, Agartala, Tripura, India</span>
-- Logistics Coordinator ; <span style="color: magenta">Pravega 2021</span> 
-- Football Club Convener (2021-2022); <span style="color: green">IISc, Bangalore</span>  
+- Logistics Coordinator ; <span style="color: brown">Pravega 2021</span> 
+- Football Club Convener (2021-2022); <span style="color: brown">IISc, Bangalore</span>  
 
 ## **Miscellaneous**
 
