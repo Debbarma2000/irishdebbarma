@@ -3,6 +3,7 @@ layout: page
 excerpt: "About Me..."
 menutitle: Home
 menuorder: 1
+katex: true
 ---
 
 I am Irish Debbarma, a 3rd year Undergraduate at the Indian Institute of Science, Bangalore. I am majoring in mathematics from the Mathematics Department. I am from the state of Tripura in the North-Eastern part of India. 
