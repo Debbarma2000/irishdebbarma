@@ -1,5 +1,5 @@
 ---
-layout: presentation-post-index
+layout: page
 menutitle: Courses & Resources
 menuorder: 2
 excerpt: "Recent Presentations"
