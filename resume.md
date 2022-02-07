@@ -34,7 +34,7 @@ Secondary; Agartala, Tripura, India.
 
 ## **Projects**
 
-- Summer 2020 : Math reading project under Professor B.Sury of Indian Statistical Institute, Bangalore on <span style="color: brown">Binary Qudratic Forms</span>
+- Summer 2020 : Math reading project under Professor B.Sury of Indian Statistical Institute, Bangalore on <span style="color: brown">Binary Quadratic Forms</span>
 - Summer 2021 : Math reading project under Professor Venkatesh Rajendran of Indian Institute of Science, Bangalore on <span style="color: brown">Zero Sum Problems</span> 
 - Winter 2021 - ongoing : Math reading project under Professor Shaunak Deo of Indian Institute of Science, Bangalore on <span style="color: brown">Cubic and Biquadratic Reciprocity laws</span>
 
