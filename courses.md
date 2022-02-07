@@ -51,6 +51,7 @@ excerpt: "Recent Presentations"
 - Introduction to Earth and Environment (2:0) <span style = "color: teal;" > taken in Aug-Dec 2020 </span>
 - Introduction to Materials Science (2:0) <span style = "color: teal;" > taken in Aug-Dec 2020 </span>
 - Introduction to Solid Mechanics (3:0) <span style = "color: teal;" > taken in Jan-April 2021 </span> [notes](https://drive.google.com/file/d/1359UM26xwq87Q-uPN4j9sHEtk5RYwnQA/view?usp=sharing) 
+- Game Theory (3:1) <span style = "color: teal;" > taking in Jan-April 2022 </span>
 
 ---
 ## **Useful Resources**
@@ -122,6 +123,7 @@ Another essential tool that comes in handy for mathematicians is sagemath which 
     - Serge Lang. _Undergraduate Algebra_
     - Serge Lang. _Algebra_
     <span style="color: brown"> 
+
     Gallian would be a nice place to start your journey. Once you are done you can move to Dummit Foote (it covers almost everything) and after that if you continue you will be using books that are dedicated to certain topics anyway. Lang's Undergraduate Algebra can also be a nice first time source.   
 3. Combinatorics
     - Aigner. _A course in enumeration_
@@ -150,6 +152,7 @@ Another essential tool that comes in handy for mathematicians is sagemath which 
     - Davenport. _Multiplicative Number Theory_
 
 8. Complex Analysis
+    - Bak, Newman, _Complex Analysis_
     - Conway. _Functions of One Complex Variable_
     - Ahlfors. _Complex Analysis_
     - Shakarchi. _Problems and solutions for Complex Analysis_
