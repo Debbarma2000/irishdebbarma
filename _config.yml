@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Irish Debbarma
-  avatar: https://debbarma2000.github.io/irishdebbarma/images/profile_pic.png
+  avatar: http://debbarma2000.github.io/irishdebbarma/images/profile_pic.png
   bio: "3rd year Undergraduate at Indian Institute of Science, Bangalore"
   email: irishd@iisc.ac.in
   # Do not include the @ symbol in your Twitter username
