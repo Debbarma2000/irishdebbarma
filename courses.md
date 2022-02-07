@@ -15,14 +15,14 @@ excerpt: "Recent Presentations"
 - Introduction to Basic Analysis (3:1) <span style = "color: teal;" > taken in Jan-April 2021 </span> [notes](https://drive.google.com/file/d/1HM4OxxX4kUH_5ctk08Mygu2FNUzL03Fj/view?usp=sharing) 
 - Introduction to Algebraic Structures (3:1) <span style = "color: teal;" > taken in Jan-April 2021 </span> [course website](https://sites.google.com/view/rvenkateshiisc/teaching/um205-2021?authuser=0) 
 - Ordinary Differential Equations (3:1) <span style = "color: teal;" > taken in Jan-April 2021 </span>
-- Algebra- I (3:0) <span style = "color: teal;" >  taking in Aug-Dec 2021 </span> [notes](https://drive.google.com/file/d/16VbWSz0O5LfwSW6JZCsjQgUAVplJyEtK/view?usp=sharing) 
-- Multivariable calculus (3:1) <span style = "color: teal;" > taking in Aug-Dec 2021 </span> [course website](https://sites.google.com/view/subhojoy/ma200-multivariable-calculus) [notes](https://drive.google.com/file/d/1sJG08E6poo7PlMCwAbWY7il1ph8_lv4k/view?usp=sharing) 
-- Linear Algebra (3:1) <span style = "color: teal;" > taking in Aug-Dec 2021 </span> [course website](http://www.math.iisc.ac.in/~khare/teaching.html#2021-219) [notes](https://drive.google.com/file/d/1lTpQ1g72gvWmNXrwMt5GDyv2r6bOFdzP/view?usp=sharing) 
-- Topology (3:1) <span style = "color: teal;" > taking in Aug-Dec 2021 </span> [course website](http://math.iisc.ac.in/~gadgil/topology-2021/index.html) [notes](https://drive.google.com/file/d/19b-L1-dumyo8atR59bU3FMzwMaHoAzWO/view?usp=sharing) 
-- Representation Theory of Finite Groups (3:0) <span style = "color: teal;" > taking in Aug-Dec 2021 </span> [notes](https://drive.google.com/file/d/1HMag5hShBRmr_jE7xG4Bt4JdiYLjdk0a/view?usp=sharing) 
-- Complex Analysis [notes](https://drive.google.com/file/d/1qzOnPYxgRO9R93khsqDt79uWBezYbTHu/view?usp=sharing) 
-- Measure Theory [notes](https://drive.google.com/file/d/1qmhDqvU2JSGWpLpfLNeeH6aaw-u8TJa7/view?usp=sharing) 
-- Functional Analysis (3:0) <span style = "color: teal;" > taking in Aug-Dec 2021 </span> [notes](https://drive.google.com/file/d/1rfvp8fXTumDTjPWOk6uvMay_I5PY0Oh3/view?usp=sharing) 
+- Algebra- I (3:0) <span style = "color: teal;" >  taken in Aug-Dec 2021 </span> [notes](https://drive.google.com/file/d/16VbWSz0O5LfwSW6JZCsjQgUAVplJyEtK/view?usp=sharing) 
+- Multivariable calculus (3:1) <span style = "color: teal;" > taken in Aug-Dec 2021 </span> [course website](https://sites.google.com/view/subhojoy/ma200-multivariable-calculus) [notes](https://drive.google.com/file/d/1sJG08E6poo7PlMCwAbWY7il1ph8_lv4k/view?usp=sharing) 
+- Linear Algebra (3:1) <span style = "color: teal;" > taken in Aug-Dec 2021 </span> [course website](http://www.math.iisc.ac.in/~khare/teaching.html#2021-219) [notes](https://drive.google.com/file/d/1lTpQ1g72gvWmNXrwMt5GDyv2r6bOFdzP/view?usp=sharing) 
+- Topology (3:1) [course website](http://math.iisc.ac.in/~gadgil/topology-2021/index.html) [notes](https://drive.google.com/file/d/19b-L1-dumyo8atR59bU3FMzwMaHoAzWO/view?usp=sharing) 
+- Representation Theory of Finite Groups (3:0) <span style = "color: teal;" > taken in Aug-Dec 2021 </span> [notes](https://drive.google.com/file/d/1HMag5hShBRmr_jE7xG4Bt4JdiYLjdk0a/view?usp=sharing) 
+- Complex Analysis <span style = "color: teal;" > taking in Jan-April 2022 </span>[notes](https://drive.google.com/file/d/1qzOnPYxgRO9R93khsqDt79uWBezYbTHu/view?usp=sharing) 
+- Measure Theory <span style = "color: teal;" > taking in Jan-April 2022 </span> [notes](https://drive.google.com/file/d/1qmhDqvU2JSGWpLpfLNeeH6aaw-u8TJa7/view?usp=sharing) 
+- Functional Analysis (3:0) [notes](https://drive.google.com/file/d/1rfvp8fXTumDTjPWOk6uvMay_I5PY0Oh3/view?usp=sharing) 
 - Coxeter Groups (3:0) <span style = "color: teal;" > taking in Jan-April 2022 </span>
 - Algebraic Number Theory (3:0) <span style = "color: teal;" > taking in Jan-April 2022 </span>
 - Introduction to modular forms <span style = "color: teal;" > taking in Jan-April 2022 at CMI (online)</span>
@@ -90,6 +90,7 @@ The following is list of channels that do slightly more advanced stuff:
 - [Brian Conrad](https://www.google.com/url?q=http%3A%2F%2Fmath.stanford.edu%2F~conrad%2F&sa=D)  
 - [Terence Tao](https://www.google.com/url?q=https%3A%2F%2Fterrytao.wordpress.com&sa=D) 
 - AoPS community
+- numbertheory.org (very resourceful)
 
 Besides these, there are multiple discord servers where people are actively studying. Joining few of them could also be useful.
 
