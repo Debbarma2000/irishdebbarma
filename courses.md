@@ -112,35 +112,37 @@ Another essential tool that comes in handy for mathematicians is sagemath which 
     - Abbott. _Understanding Analysis_
     - Rami Shakarchi. _Problems and Solutions for Undergraduate Analysis_
     - Terence Tao. _Analysis I, II_  
-    <span style="color: magenta"> 
+    <span style="color: brown"> 
      Apostol volumes and/or Ghorpade, Limaye volumes can be used as beginner text. Rudin's book is a classic but might not be very suitable for people who are seeing analysis for the first time.</span>
    
 2. Abstract Algebra
     - Joseph Gallian. _Contemporary Abstract Algebra_
     - Dummit and Foote. _Abstract Algebra_  
-    <span style="color: magenta"> Gallian would be a nice place to start your journey. Once you are done you can move to Dummit Foote (it covers almost everything) and after that if you continue you will be using books that are dedicated to certain topics anyway.
+    - Serge Lang. _Undergraduate Algebra_
+    - Serge Lang. _Algebra_
+    <span style="color: brown"> Gallian would be a nice place to start your journey. Once you are done you can move to Dummit Foote (it covers almost everything) and after that if you continue you will be using books that are dedicated to certain topics anyway. Lang's Undergraduate Algebra can also be a nice first time source.   
 3. Combinatorics
     - Aigner. _A course in enumeration_
     - Andreescu, Feng. _A Path to Combinatorics for Undergrduates_
     - R.P. Stanley. _Enumerative Combinatorics_  
-    <span style="color: magenta"> 
+    <span style="color: brown"> 
      Aigner's book is a very nice one and can be used independent of others. Otherwise all three of them are very nice.</span>
 4. Number Theory
     - D.M. Burton. _Elementary Number Theory_
     - Niven, Montgomery. _Introduction to Theory of Numbers_  
-    <span style="color: magenta"> 
+    <span style="color: brown"> 
     Burton's book is a classic and should be **the** book for beginners. Once you are comfortable with the stuff in Burton you can move to Niven. </span>
 5. Topology
     - Munkres. _Topology_
     - M.A. Armstrong. _Basic Topology_
-    <span style="color: magenta"> 
-     Personally I like Munkres but feel free to read both and choose as you see fit.</span>
+    - Sidney A. Morris. _Topology without tears_ (available online for free)
+    [//]: # (<span style="color: brown"> </span>)
 6. Linear ALgebra
     - Gilbert Strang. _Linear Algebra and its applications_
     - Hoffman, Kunze. _Linear Algebra_ 
     - Sheldon Axler. _Linear Algebra done right_  
-  <span style="color: magenta"> 
-     All three books are excellent. Use whatever you like</span>
+  <span style="color: brown"> 
+     All three books are excellent. Use whatever you like.</span>
 7. Analytic Number Theory
     - Tom Apostol. _Introduction to Analytic Number Theory_
     - Davenport. _Multiplicative Number Theory_
@@ -150,6 +152,9 @@ Another essential tool that comes in handy for mathematicians is sagemath which 
     - Ahlfors. _Complex Analysis_
     - Shakarchi. _Problems and solutions for Complex Analysis_
 9. Measure Theory
+    - Gail S. Nelson. _A User-Friendly Introduction to Lebesgue Measure and Integration_
+    - Stein, Shakarchi. _Real Analysis-Measure theory, integration and Hilbert Spaces_
+    - Sheldon Axler. _Measure, Integration and Real Analysis_
     - Royden. _Real Analysis_
     - Folland. _Real Analysis_
 
@@ -157,13 +162,38 @@ Another essential tool that comes in handy for mathematicians is sagemath which 
     - Conway. _A course in functional analysis_
 
 11. Algebraic Number Theory
+    - Daniel Marcus. _Number Fields_
+    - Frazer Jarvis. _Algebraic Number Theory_
+    - R.A. Mollin _Algebraic Number Theory_
     - Robert Ash. _A Course in Algebraic Number Theory_
+    - M. Ram Murty, Jody Esmonde. _Problems in Algebraic Number Theory_
 
 12. Representation Theory of finite groups
+    - Etingof's notes
     - Serre. _Linear Representations of finite groups_ 
+    - Fulton, Harris. _Representation Theory, A first course_
 
 13. Commutative Algebra
     - Atiyah. _Introduction to commutative algebra_
+
+14. Field and Galois Theory
+    - Howie. _Fields and Galois Theory_
+    - James Milne. _Fields and Galois Theory_
+    - Tom Leinster. _Galois Theory_ (available online for free)   
+
+15. p-adic numbers and Cyclotomic fields
+    - Neal Koblitz. _p-adic numbers, p-adic analysis, and Zeta functions_
+    - Lawrence C. Washington. _Introduction to Cyclotomic fields_
+
+16. Modular forms
+    - Diamond, Shurman. _A first course in modular forms_
+    - Serge Lang. _Introduction to modular forms_
+    - Tom M. Apostol. _Modular functions and Dirichlet series in Number Theory_
+    - _Problems in the theory of modular forms_
+
+17. Coxeter Groups
+    - Humphreys. _Reflection groups and coxeter groups_ 
+    - Anders Bjoner, Francesco Brenti. _Combinatorics of Coxeter Groups_
 
 ### **General**
 
