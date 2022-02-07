@@ -123,8 +123,8 @@ Another essential tool that comes in handy for mathematicians is sagemath which 
     - Serge Lang. _Undergraduate Algebra_
     - Serge Lang. _Algebra_
     <span style="color: brown"> 
-
-    Gallian would be a nice place to start your journey. Once you are done you can move to Dummit Foote (it covers almost everything) and after that if you continue you will be using books that are dedicated to certain topics anyway. Lang's Undergraduate Algebra can also be a nice first time source.   
+    Gallian would be a nice place to start your journey. Once you are done you can move to Dummit Foote (it covers almost everything) and after that if you continue you will be using books that are dedicated to certain topics anyway. Lang's Undergraduate Algebra can also be a nice first time source. 
+    </span>  
 3. Combinatorics
     - Aigner. _A course in enumeration_
     - Andreescu, Feng. _A Path to Combinatorics for Undergrduates_
