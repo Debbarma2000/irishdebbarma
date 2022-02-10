@@ -39,6 +39,17 @@ This page contains all the physical books I have right now and the books I wish 
 - Bipin Chandra. _India's Struggle for Independence_
 - Jerome K Jerome. _Three Men in a Boat_
 - Anuj Dhar. _India's Biggest Cover Up_
+- S. Hussain Zaidi. _Dongri to Dubai_
+- S. Hussain Zaidi. _Byculla to Bangkok_
+- _Chekhov Plays_
+- Gabriel Garcia Marquez. _One hundred years of solitude_
+- Jane Austen. _Pride and Prejudice_
+- Bhupen Patel. _The Anatomy of a sting_
+- Jhumpa Lahiri. _Lowland_
+- Ramchandra Guha. _India after Gandhi_
+- Khushwant Singh. _Train to Pakistan_
+- _The War that made R&W_
+- Simon Singh. _Fermat's Last theorem_
 - 
 
 # Wish to own
