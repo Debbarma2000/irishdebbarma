@@ -20,12 +20,17 @@ excerpt: "Recent Presentations"
 - Linear Algebra (3:1) <span style = "color: teal;" > taken in Aug-Dec 2021 </span> [course website](http://www.math.iisc.ac.in/~khare/teaching.html#2021-219) [notes](https://drive.google.com/file/d/1lTpQ1g72gvWmNXrwMt5GDyv2r6bOFdzP/view?usp=sharing) 
 - Topology (3:1) [course website](http://math.iisc.ac.in/~gadgil/topology-2021/index.html) [notes](https://drive.google.com/file/d/19b-L1-dumyo8atR59bU3FMzwMaHoAzWO/view?usp=sharing) 
 - Representation Theory of Finite Groups (3:0) <span style = "color: teal;" > taken in Aug-Dec 2021 </span> [notes](https://drive.google.com/file/d/1HMag5hShBRmr_jE7xG4Bt4JdiYLjdk0a/view?usp=sharing) 
-- Complex Analysis <span style = "color: teal;" > taking in Jan-April 2022 </span>[notes](https://drive.google.com/file/d/1qzOnPYxgRO9R93khsqDt79uWBezYbTHu/view?usp=sharing) 
-- Measure Theory <span style = "color: teal;" > taking in Jan-April 2022 </span> [notes](https://drive.google.com/file/d/1qmhDqvU2JSGWpLpfLNeeH6aaw-u8TJa7/view?usp=sharing) 
+- Algebra- II (3:0) <span style = "color: teal;" >  taken in Jan-April 2022 </span> 
+- Complex Analysis <span style = "color: teal;" > taken in Jan-April 2022 </span>[notes](https://drive.google.com/file/d/1qzOnPYxgRO9R93khsqDt79uWBezYbTHu/view?usp=sharing) 
+- Measure Theory <span style = "color: teal;" > taken in Jan-April 2022 </span> [notes](https://drive.google.com/file/d/1qmhDqvU2JSGWpLpfLNeeH6aaw-u8TJa7/view?usp=sharing) 
 - Functional Analysis (3:0) [notes](https://drive.google.com/file/d/1rfvp8fXTumDTjPWOk6uvMay_I5PY0Oh3/view?usp=sharing) 
-- Coxeter Groups (3:0) <span style = "color: teal;" > taking in Jan-April 2022 </span>
-- Algebraic Number Theory (3:0) <span style = "color: teal;" > taking in Jan-April 2022 </span>
-- Introduction to modular forms <span style = "color: teal;" > taking in Jan-April 2022 at CMI (online)</span>
+- Coxeter Groups (3:0) <span style = "color: teal;" > tried in Jan-April 2022 </span>
+- Algebraic Number Theory (3:0) <span style = "color: teal;" > taken in Jan-April 2022 </span>
+- Introduction to modular forms <span style = "color: teal;" > taken in Jan-April 2022 at CMI (online)</span> <span style = "color: teal;"> had to stop midway because classes went offline </span>
+- Commutative Algebra (3:0) <span style = "color: teal;" >  taking in Aug-Dec 2022 </span> 
+- Analytic Number Theory (3:0) <span style = "color: teal;" >  taking in Aug-Dec 2022 </span> 
+- Functional analysis (3:0) <span style = "color: teal;" >  taking in Aug-Dec 2022 </span> 
+
 ### **Physics**
 
 - Introductory Physics-I [Mechanics, Oscillations and Waves] (2:1) <span style = "color: teal;" > taken in Aug-Dec 2019 </span>
