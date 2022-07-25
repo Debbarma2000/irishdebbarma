@@ -22,7 +22,7 @@ Although I am fairly interested in anything in number theory, the following topi
 I am not saying that I know all of these topics, I am just very interested in learning all of the above.
 
 ## Projects (Past and Current)
- - My Bachelor thesis (to be submitted at the end of Spring 2023) is supposed to be on Tate's thesis _Fourier Analysis in Number Fields and Hecke's Zeta Functions_ under the guidance of [Prof. Mahesh Kakde](http://math.iisc.ac.in/~maheshkakde/) ]at IISc Bangalore.
+ - My Bachelor thesis (to be submitted at the end of Spring 2023) is supposed to be on Tate's thesis _Fourier Analysis in Number Fields and Hecke's Zeta Functions_ under the guidance of [Prof. Mahesh Kakde](http://math.iisc.ac.in/~maheshkakde/) at IISc Bangalore.
  - I am reading Introduction to Cyclotomic Fields by Lawrence Washington (ongoing) under the guidance of [Prof. Mahesh Kakde](http://math.iisc.ac.in/~maheshkakde/) of IISc Bangalore. 
  - I studied _The Uncertainty Principle_ in finite abelian groups with an aim to apply it to certain additive problems and extend it later to non abelian framework. I did this project under the guidance of Prof. Gautami Bhowmik of University of Lille, France. I was supported financially by [Charpak Lab scholarship](https://www.inde.campusfrance.org/charpak-lab-scholarship) and GARP funding by IISc, Bangalore. 
  - I have read Introduction to Analytic Number Theory- Tom Apostol by myself. I have recently come across Selberg Sieves and intend to read more about it but before that I need to have the prerequisites right. So I am on it! 

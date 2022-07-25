@@ -211,7 +211,7 @@ Another essential tool that comes in handy for mathematicians is sagemath which 
 18. Lie Groups, Lie Algebras and representations
     - Humphreys. _Introduction to lie algebras and representation theory_
     - Roger Carter. _Lie algebras of finite and affine type_
-    - Anthony Henderson. _Representations of Lie Algebras. An introduction to $ \mathfrak{gl}_{n}$ _
+    - Anthony Henderson. _Representations of Lie Algebras. An introduction to $\mathfrak{gl}_{n}$ _
     - B.C. Hall. _Lie Groups, Lie Algebras and representations- An elementary introduction_
     - Sepanski. _Compact Lie Groups_
 
