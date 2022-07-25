@@ -3,6 +3,7 @@ layout: page
 menutitle: Courses & Resources
 menuorder: 2
 excerpt: "Recent Presentations"
+katex: true
 ---
 ## **Courses taken**
 
@@ -29,7 +30,8 @@ excerpt: "Recent Presentations"
 - Introduction to modular forms <span style = "color: teal;" > taken in Jan-April 2022 at CMI (online)</span> <span style = "color: teal;"> had to stop midway because classes went offline </span>
 - Commutative Algebra (3:0) <span style = "color: teal;" >  taking in Aug-Dec 2022 </span> 
 - Analytic Number Theory (3:0) <span style = "color: teal;" >  taking in Aug-Dec 2022 </span> 
-- Functional analysis (3:0) <span style = "color: teal;" >  taking in Aug-Dec 2022 </span> 
+- Functional analysis (3:0) <span style = "color: teal;" >   </span> 
+- Lie Algebras and its representations (3:0) <span style="color: teal;"> taking in Aug-Dec 2022 </span>
 
 ### **Physics**
 
@@ -135,7 +137,7 @@ Another essential tool that comes in handy for mathematicians is sagemath which 
     - R.P. Stanley. _Enumerative Combinatorics_  
     <span style="color: brown"> 
      Aigner's book is a very nice one and can be used independent of others. Otherwise all three of them are very nice.</span>
-4. Number Theory
+4. Basic Number Theory
     - D.M. Burton. _Elementary Number Theory_
     - Niven, Montgomery. _Introduction to Theory of Numbers_  
     <span style="color: brown"> 
@@ -176,6 +178,7 @@ Another essential tool that comes in handy for mathematicians is sagemath which 
     - R.A. Mollin _Algebraic Number Theory_
     - Robert Ash. _A Course in Algebraic Number Theory_
     - M. Ram Murty, Jody Esmonde. _Problems in Algebraic Number Theory_
+    - Serre. _A course in arithmetic_
 
 12. Representation Theory of finite groups
     - Etingof's notes
@@ -184,6 +187,7 @@ Another essential tool that comes in handy for mathematicians is sagemath which 
 
 13. Commutative Algebra
     - Atiyah. _Introduction to commutative algebra_
+    - Eisenbud. _Introduction to Commutative Algebra with a view towards algebraic geometry_
 
 14. Field and Galois Theory
     - Howie. _Fields and Galois Theory_
@@ -203,6 +207,46 @@ Another essential tool that comes in handy for mathematicians is sagemath which 
 17. Coxeter Groups
     - Humphreys. _Reflection groups and coxeter groups_ 
     - Anders Bjoner, Francesco Brenti. _Combinatorics of Coxeter Groups_
+
+18. Lie Groups, Lie Algebras and representations
+    - Humphreys. _Introduction to lie algebras and representation theory_
+    - Roger Carter. _Lie algebras of finite and affine type_
+    - Anthony Henderson. _Representations of Lie Algebras. An introduction to $mathfrak{gl}_{n}$ _
+    - B.C. Hall. _Lie Groups, Lie Algebras and representations- An elementary introduction_
+    - Sepanski. _Compact Lie Groups_
+
+19. Tate thesis 
+    - Deitmar. _A first course in harmonic analysis_
+    - Deitmar, Seigfried. _Principles of harmonic analysis_
+    - Dinakar Ramakrishnan, Valenza. _Fourier Analysis on Number Fields_
+    - Cassels, Frohlich. _Algebraic Number theory_
+    - Chandrashekharan. _A course on topological groups_
+    - Ribes, Zalesskii. _Profinite Groups_
+    - Bjorn Poonen notes. _Tate's thesis_ (available online)    
+
+20. Analytic Number Theory
+    - Tom M. Apostol. _Introduction to Analytic Number Theory_
+    - Davenport. _Multiplicative Number Theory_
+    - Serre. _A course in arithmetic_
+
+21. Sieve theory
+    - ALINA CARMEN COJOCARU, M. RAM MURTY. _An Introduction to Sieve Methods and Their Applications_
+
+22. Automorphic Forms
+    - Deitmar. _Automorphic Forms_
+    - Borel, Casselman. _Automorphic Forms, representations and L-functions. Part-1,2_
+    - Bump. _Automorphic Forms and representations_
+
+23. Galois representations
+    - 
+
+24. Category theory/Homological Algebra
+    - Rotman. _An introduction to homological algebra_
+    - Simmons. _An introduction to category theory_
+    - Steven Roman. _An introduction to the language of category theory_
+    - Lawvere, Schanuel. _A first introduction to categories_ 
+ <span style="color: brown"> 
+     My personal favourite is the book by Lawvere, Schanuel. Although, I must admit that I picked up a lot of category theory as and when needed and not all of it at one go. I also benefitted a lot from Borcherds youtube channel. Now, I go back to Rotman whenever I need to refer to something. </span>
 
 ### **General**
 

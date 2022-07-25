@@ -13,8 +13,8 @@ Besides math, I am also interested in reading about history, geopolitics and rel
 I am a regular football player with loyalties to no club. I enjoy cycling and travelling as well.
 
 ## Research Interests
-Although I am fairly interested in anything in algebra, the following topics interest me a lot and I would like to read more about them.
- - Analytic Number theory, modular forms and L-functions
+Although I am fairly interested in anything in number theory, the following topics interest me a lot and I would like to read more about them.
+ - Analytic Number theory, modular forms and L-functions, automorphic forms, sieves. 
  - Algebraic number theory, reciprocity laws
  - L-functions in p-adic settings, cyclotomic fields and Iwasawa theory
  - Combinatorial number theory
@@ -22,8 +22,9 @@ Although I am fairly interested in anything in algebra, the following topics int
 I am not saying that I know all of these topics, I am just very interested in learning all of the above.
 
 ## Projects (Past and Current)
- - I am reading Introduction to Cyclotomic Fields by Lawrence Washington. 
- - I am currently stuyding _The Uncertainty Principle_ in the discrete setting such as finite abelian groups with an aim to extend it later to non abelian framework. 
+ - My Bachelor thesis (to be submitted at the end of Spring 2023) is supposed to be on Tate's thesis _Fourier Analysis in Number Fields and Hecke's Zeta Functions_ under the guidance of [Prof. Mahesh Kakde](http://math.iisc.ac.in/~maheshkakde/) ]at IISc Bangalore.
+ - I am reading Introduction to Cyclotomic Fields by Lawrence Washington (ongoing) under the guidance of [Prof. Mahesh Kakde](http://math.iisc.ac.in/~maheshkakde/) of IISc Bangalore. 
+ - I studied _The Uncertainty Principle_ in finite abelian groups with an aim to apply it to certain additive problems and extend it later to non abelian framework. I did this project under the guidance of Prof. Gautami Bhowmik of University of Lille, France. I was supported financially by [Charpak Lab scholarship](https://www.inde.campusfrance.org/charpak-lab-scholarship) and GARP funding by IISc, Bangalore. 
  - I have read Introduction to Analytic Number Theory- Tom Apostol by myself. I have recently come across Selberg Sieves and intend to read more about it but before that I need to have the prerequisites right. So I am on it! 
  - I am hoping to read Stickelberger's relation and Eisenstein's reciprocity laws.
  - In the winter of 2021, I went through the proofs of <em> Cubic and Biquadratic reciprocity laws </em> from the book Introduction to Modern Number Theory by Ireland and Rosen under the guidance of [Prof. Shaunak Deo](https://sites.google.com/view/shaunakdeo/).

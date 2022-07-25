@@ -24,6 +24,7 @@ Secondary; Agartala, Tripura, India.
 
 ## **Awards & Fellowships**
 - Kishore Vaigyanik Protsahan Yojana (KVPY) SX- 2018-19; fellowship from 2019-ongoing.
+- Charpak Lab scholarship awardee for the year 2022. 
 
 ## **Tools**
 - C
@@ -36,8 +37,16 @@ Secondary; Agartala, Tripura, India.
 
 - Summer 2020 : Math reading project under Professor B.Sury of Indian Statistical Institute, Bangalore on <span style="color: brown">Binary Quadratic Forms</span>
 - Summer 2021 : Math reading project under Professor Venkatesh Rajendran of Indian Institute of Science, Bangalore on <span style="color: brown">Zero Sum Problems</span> 
-- Winter 2021 - ongoing : Math reading project under Professor Shaunak Deo of Indian Institute of Science, Bangalore on <span style="color: brown">Cubic and Biquadratic Reciprocity laws</span>
+- Winter 2021 : Math reading project under Professor Shaunak Deo of Indian Institute of Science, Bangalore on <span style="color: brown">Cubic and Biquadratic Reciprocity laws</span>
+- Summer 2022 : Math reading project under Professor Gautami Bhowmik of University of Lille 1, Sciences and Technologies, Lille, France. I was financially supported by Charpak Lab scholarship given by the Government of France and GARP funding by my host institute IISc Bangalore. The topic of my project was <span style="color: brown"> Uncertainty principles in finite abelian groups </span> 
+- Summer 2022 : Math reading project under Professor Mahesh Kakde of Indian Institute of Science, Bangalore. I read the first 5 chapters of the book _Introduction to Cyclotomic Fields_ by Lawrence Washington. 
 
+## **Conferences Attended**
+
+- [Flatland Arithmetic: Spring Meeting](https://www.mathconf.org/app-gvl-spring2022), Calais, France, May 30th, 2022  
+- [L-FUNCTIONS, CIRCLE-METHOD AND APPLICATIONS (HYBRID)](https://www.icts.res.in/discussion-meeting/circlemthd2022), Online Participant
+- [ELLIPTIC CURVES AND THE SPECIAL VALUES OF L-FUNCTIONS (HYBRID)](https://www.icts.res.in/program/ecl2022), offline participant at ICTS, Bangalore. 
+- [Formal Power Series and Algebraic Combinatorics (FPSAC 2022)](https://fpsac.org/confs/fpsac-2022/) at IISc Bangalore. 
 ## **Positions held**
 
 - National Cadet Corps (NCC) cadet (2014-2016); <span style="color: brown">Holy Cross School, Agartala, Tripura, India</span>
@@ -47,11 +56,11 @@ Secondary; Agartala, Tripura, India.
 
 ## **Miscellaneous**
 
-
 - Logistics Volunteer for Pravega 2020.
 - Part of the playing 11 in IISc football team that went to (Inter IISER Sports Meet) IISM, Pune (2019).
 - Was a volunteer for Notebook Drive, an outreach program by IISc students.
 - Was a part of the School Football (2015-2017) and Volleyball Team (2016).
+- Volunteer for the conference: Formal Power Series and Algebraic Combinatorics (FPSAC) 2022 held at IISc, Bangalore. 
 
 
 
