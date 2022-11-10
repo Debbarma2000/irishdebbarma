@@ -35,11 +35,13 @@ Secondary; Agartala, Tripura, India.
 
 ## **Projects**
 
-- Summer 2020 : Math reading project under Professor B.Sury of Indian Statistical Institute, Bangalore on <span style="color: brown">Binary Quadratic Forms</span>
+- Summer 2022 : Math reading project under Professor Gautami Bhowmik of University of Lille 1, Sciences and Technologies, Lille, France. I was financially supported by Charpak Lab scholarship given by the Government of France and GARP funding by my host institute IISc Bangalore. The topic of my project was <span style="color: brown"> Uncertainty principles in finite abelian groups </span>
+- Winter 2021 : Math reading project under Professor Shaunak Deo of Indian Institute of Science, Bangalore on <span style="color: brown">Cubic and Biquadratic Reciprocity laws</span> 
 - Summer 2021 : Math reading project under Professor Venkatesh Rajendran of Indian Institute of Science, Bangalore on <span style="color: brown">Zero Sum Problems</span> 
-- Winter 2021 : Math reading project under Professor Shaunak Deo of Indian Institute of Science, Bangalore on <span style="color: brown">Cubic and Biquadratic Reciprocity laws</span>
-- Summer 2022 : Math reading project under Professor Gautami Bhowmik of University of Lille 1, Sciences and Technologies, Lille, France. I was financially supported by Charpak Lab scholarship given by the Government of France and GARP funding by my host institute IISc Bangalore. The topic of my project was <span style="color: brown"> Uncertainty principles in finite abelian groups </span> 
-- Summer 2022 : Math reading project under Professor Mahesh Kakde of Indian Institute of Science, Bangalore. I read the first 5 chapters of the book _Introduction to Cyclotomic Fields_ by Lawrence Washington. 
+- Summer 2020 : Math reading project under Professor B.Sury of Indian Statistical Institute, Bangalore on <span style="color: brown">Binary Quadratic Forms</span>
+
+
+
 
 ## **Conferences Attended**
 
