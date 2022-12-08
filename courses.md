@@ -27,11 +27,14 @@ katex: true
 - Functional Analysis (3:0) [notes](https://drive.google.com/file/d/1rfvp8fXTumDTjPWOk6uvMay_I5PY0Oh3/view?usp=sharing) 
 - Coxeter Groups (3:0) <span style = "color: teal;" > tried in Jan-April 2022 </span>
 - Algebraic Number Theory (3:0) <span style = "color: teal;" > taken in Jan-April 2022 </span>
-- Introduction to modular forms <span style = "color: teal;" > taken in Jan-April 2022 at CMI (online)</span> <span style = "color: teal;"> had to stop midway because classes went offline </span>
-- Commutative Algebra (3:0) <span style = "color: teal;" >  taking in Aug-Dec 2022 </span> 
-- Analytic Number Theory (3:0) <span style = "color: teal;" >  taking in Aug-Dec 2022 </span> 
+- Commutative Algebra (3:0) <span style = "color: teal;" >  taken in Aug-Dec 2022 </span> 
+- Analytic Number Theory (3:0) <span style = "color: teal;" >  taken in Aug-Dec 2022 </span> 
 - Functional analysis (3:0) <span style = "color: teal;" >   </span> 
-- Lie Algebras and its representations (3:0) <span style="color: teal;"> taking in Aug-Dec 2022 </span>
+- Lie Algebras and its representations (3:0) <span style="color: teal;"> taken in Aug-Dec 2022 </span>
+- Elliptic Curves <span style = "color: teal;" > taking in Jan-April 2023</span> 
+- Topics in Analytic Number Theory <span style = "color: teal;" > taking in Jan-April 2023</span> 
+- Algebraic Geometry <span style = "color: teal;" > taking in Jan-April 2023</span> 
+- Introduction to differentiable manifolds <span style = "color: teal;" > taking in Jan-April 2023</span> 
 
 ### **Physics**
 
@@ -59,6 +62,7 @@ katex: true
 - Introduction to Materials Science (2:0) <span style = "color: teal;" > taken in Aug-Dec 2020 </span>
 - Introduction to Solid Mechanics (3:0) <span style = "color: teal;" > taken in Jan-April 2021 </span> [notes](https://drive.google.com/file/d/1359UM26xwq87Q-uPN4j9sHEtk5RYwnQA/view?usp=sharing) 
 - Game Theory (3:1) <span style = "color: teal;" > taking in Jan-April 2022 </span>
+- Computational Complexity Theory <span style = "color: teal;" > taken in Aug-Dec 2022</span> 
 
 ---
 ## **Useful Resources**
