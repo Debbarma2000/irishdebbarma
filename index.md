@@ -8,18 +8,17 @@ katex: true
 
 I am Irish Debbarma, a final year Undergraduate at the Indian Institute of Science, Bangalore. I am majoring in mathematics from the Mathematics Department. I am from the state of Tripura in the North-Eastern part of India. 
 
-Besides math, I am also interested in reading about history, geopolitics and related topics. 
+Besides math, I am also interested in reading about history, geopolitics and linguistics. 
 
 I am a regular football player with loyalties to no club. I enjoy cycling and travelling as well.
 
 ## Research Interests
 Although I am fairly interested in anything in number theory, the following topics interest me a lot and I would like to read more about them.
- - Analytic Number theory, modular forms and L-functions, automorphic forms. 
+ - Modular forms and L-functions, automorphic forms. 
  - Algebraic number theory, reciprocity laws.
- - L-functions in p-adic settings, cyclotomic fields, Arithmetic Geometry. 
- - Combinatorial number theory
+ - L-functions in p-adic settings, cyclotomic fields, Arithmetic Geometry.
 
-I am not saying that I know all of these topics, I am just very interested in learning all of the above.
+I have made notes for my final semester which covers Algebraic Geometry, Modular forms, elliptic curves, commutative algebra, representation theory and algebraic number theory. Find it [here](https://github.com/Debbarma2000/final-semester/tree/main/notes)
 
 ## Projects (Past and Current)
  - My Bachelor thesis (to be submitted at the end of Spring 2023) is on Tate's thesis _Fourier Analysis in Number Fields and Hecke's Zeta Functions_ under the guidance of [Prof. Mahesh Kakde](http://math.iisc.ac.in/~maheshkakde/) at IISc Bangalore. Please find a draft of my thesis [here](/files/tate_extended_thesis.pdf)

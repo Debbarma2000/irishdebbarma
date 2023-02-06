@@ -33,8 +33,10 @@ katex: true
 - Lie Algebras and its representations (3:0) <span style="color: teal;"> taken in Aug-Dec 2022 </span>
 - Elliptic Curves <span style = "color: teal;" > taking in Jan-April 2023</span> 
 - Topics in Analytic Number Theory <span style = "color: teal;" > taking in Jan-April 2023</span> 
-- Algebraic Geometry <span style = "color: teal;" > taking in Jan-April 2023</span> 
-- Introduction to differentiable manifolds <span style = "color: teal;" > taking in Jan-April 2023</span> 
+- Basic Algebraic Geometry <span style = "color: teal;" > taking in Jan-April 2023</span> 
+- Algebraic Geometry I <span style = "color: teal;" > taking in Jan-April 2023</span> 
+- Modular Forms < span style = "color: teal;"> taking in Jan-April 2023 </span>
+
 
 ### **Physics**
 
