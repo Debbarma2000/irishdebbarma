@@ -31,11 +31,16 @@ katex: true
 - Analytic Number Theory (3:0) <span style = "color: teal;" >  taken in Aug-Dec 2022 </span> 
 - Functional analysis (3:0) <span style = "color: teal;" >   </span> 
 - Lie Algebras and its representations (3:0) <span style="color: teal;"> taken in Aug-Dec 2022 </span>
-- Elliptic Curves <span style = "color: teal;" > taking in Jan-April 2023</span> 
-- Topics in Analytic Number Theory <span style = "color: teal;" > taking in Jan-April 2023</span> 
-- Basic Algebraic Geometry <span style = "color: teal;" > taking in Jan-April 2023</span> 
-- Algebraic Geometry I <span style = "color: teal;" > taking in Jan-April 2023</span> 
-- Modular Forms < span style = "color: teal;"> taking in Jan-April 2023 </span>
+- Elliptic Curves <span style = "color: teal;" > taken in Jan-April 2023</span> 
+- Topics in Analytic Number Theory <span style = "color: teal;" > taken in Jan-April 2023</span> 
+- Basic Algebraic Geometry <span style = "color: teal;" > taken in Jan-April 2023</span> 
+- Algebraic Geometry I <span style = "color: teal;" > taken in Jan-April 2023</span> 
+- Introduction to Modular Forms <span style = "color: teal;" > taken in Jan-April 2023</span> 
+- Commutative Algebra <span style = "color: teal;" > taking in Aug-Dec 2023</span> 
+- Linear Algebraic Groups  <span style = "color: teal;" > taking in Aug-Dec 2023</span> 
+- Topics in Number theory: Galois representations <span style = "color: teal;" > taking in Aug-Dec 2023</span> 
+
+I have made notes which cover Algebraic Geometry, Modular forms, elliptic curves, commutative algebra, representation theory and algebraic number theory. Find it [here](https://github.com/Debbarma2000/final-semester/tree/main/notes) I will complete it someday.
 
 
 ### **Physics**
