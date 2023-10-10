@@ -19,8 +19,9 @@ Although I am fairly interested in anything in number theory, the following topi
  - Automorphic representations.
 
 ## Projects (Past and Current)
- - 
- - My Bachelor thesis (to be submitted at the end of Spring 2023) is on Tate's thesis _Fourier Analysis in Number Fields and Hecke's Zeta Functions_ under the guidance of [Prof. Mahesh Kakde](http://math.iisc.ac.in/~maheshkakde/) at IISc Bangalore. Please find a draft of my thesis [here](/files/tate_extended_thesis.pdf)
+
+ - For my Master's thesis, I am reading Gross-Stark conjecture. In particular the work of Dasgupta-Darmon-Pollack and Dasgupta-Kakde-Ventullo. This project is being supervised by [Prof. Mahesh Kakde](http://math.iisc.ac.in/~maheshkakde/) at IISc Bangalore
+ - My Bachelor thesis (submitted at the end of Spring 2023) was on Tate's thesis _Fourier Analysis in Number Fields and Hecke's Zeta Functions_ under the guidance of [Prof. Mahesh Kakde](http://math.iisc.ac.in/~maheshkakde/) at IISc Bangalore. Please find a my thesis [here](/files/tate_extended_thesis.pdf)
  - I am reading about Linear Algebraic Groups from T.A. Springer's _Linear Algebraic Groups_ with an aim to read about reductive groups. This is being done under the guidance of [Prof. Shaunak Deo](https://sites.google.com/view/shaunakdeo/).
  - I studied $p$-adic $L$-functions from  _Introduction to Cyclotomic Fields_ by Lawrence Washington (ongoing) under the guidance of [Prof. Mahesh Kakde](http://math.iisc.ac.in/~maheshkakde/) of IISc Bangalore. 
  - I studied _The Uncertainty Principle_ in finite abelian groups with an aim to apply it to certain additive problems and extend it later to non abelian framework. I did this project under the guidance of Prof. Gautami Bhowmik of University of Lille, France. I was supported financially by [Charpak Lab scholarship](https://www.inde.campusfrance.org/charpak-lab-scholarship) and GARP funding by IISc, Bangalore. You can find my report [here](/files/UP_finale.pdf)
@@ -33,6 +34,9 @@ Although I am fairly interested in anything in number theory, the following topi
 - Finiteness of Integral points on elliptic curves [click here](/files/Elliptic_Curves_Siegel_and_Shaferavich_Theorem.pdf)
 - Kubota-Leopoldt's $p$-adic $L$-functions [click here](/files/USR-2.pdf)
 - Tate's thesis (Bachelor thesis presentation) [click here](/files/Thesis_Presentation.pdf)
+- Prime Time seminar talk on Weil's 1949 paper "Number of solutions of equations in finite fields" announcing the Weil conjectures. Please find the notes for this talk [here](/files/Prime_time_Weil.pdf). To be updated soon. 
+- Hecke theory for automorphic representations in $GL_{1}$. Notes to be added soon. 
+- Exposition on Serre's conjecture on $2$ dimensional Galois representations. Notes to be added soon.
 
 
 ## **Contact Information**
