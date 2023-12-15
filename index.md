@@ -20,7 +20,7 @@ Although I am fairly interested in anything in number theory, the following topi
 
 ## Projects (Past and Current)
 
- - For my Master's thesis, I am reading Gross-Stark conjecture. In particular the work of Dasgupta-Darmon-Pollack and Dasgupta-Kakde-Ventullo. This project is being supervised by [Prof. Mahesh Kakde](http://math.iisc.ac.in/~maheshkakde/) at IISc Bangalore. A draft thesis will be made available very soon.
+ - For my Master's thesis, I am reading Gross-Stark conjecture. In particular the work of Dasgupta-Darmon-Pollack and Dasgupta-Kakde-Ventullo. This project is being supervised by [Prof. Mahesh Kakde](http://math.iisc.ac.in/~maheshkakde/) at IISc Bangalore. A draft thesis can be found [here](/files/Masters_Thesis_A.pdf)
  - My Bachelor thesis (submitted at the end of Spring 2023) was on Tate's thesis _Fourier Analysis in Number Fields and Hecke's Zeta Functions_ under the guidance of [Prof. Mahesh Kakde](http://math.iisc.ac.in/~maheshkakde/) at IISc Bangalore. Please find a my thesis [here](/files/tate_extended_thesis.pdf)
  - In the spring semester 2023, we read Linear Algebraic Groups from T.A. Springer's _Linear Algebraic Groups_ with an aim to understand reductive groups. This was done under the guidance of [Prof. Shaunak Deo](https://sites.google.com/view/shaunakdeo/).
  - I studied $p$-adic $L$-functions from  _Introduction to Cyclotomic Fields_ by Lawrence Washington (ongoing) independently.
@@ -36,6 +36,7 @@ Although I am fairly interested in anything in number theory, the following topi
 - Prime Time seminar talk on Weil's 1949 paper "Number of solutions of equations in finite fields" announcing the Weil conjectures. Please find the notes for this talk [here](/files/Prime_time_Weil.pdf). To be updated soon. 
 - Hecke theory for automorphic representations in $GL_{1}$. Notes to be added soon. 
 - Exposition on Serre's conjecture on $2$ dimensional Galois representations. Notes to be added soon.
+- 
 
 
 ## **Contact Information**
