@@ -11,7 +11,7 @@ Hopefully soon.
 # Reading Seminars
 
 - Automorphic Representations
-- Abelian Varieties over finite fields
+- [Abelian Varieties over finite fields](https://debbarma2000.github.io/irishdebbarma/GLS-AVFF.md)
 - Mazur's Eisenstein ideal paper
 
 

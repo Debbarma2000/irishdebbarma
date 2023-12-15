@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: post
 title: Library
-menutitle: Library
-menuorder: 4
+comments: true
 ---
 
 This page contains all the physical books I have right now and the books I wish to have in the future. It is not limited to math books. 
