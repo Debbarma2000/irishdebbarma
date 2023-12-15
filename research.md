@@ -4,14 +4,14 @@ menuorder: 3
 menutitle: Research 
 ---
 
-# Publications
+# Preprints
 
 Hopefully soon. 
 
 # Reading Seminars
 
 - Automorphic Representations
-- [Abelian Varieties over finite fields](https://debbarma2000.github.io/irishdebbarma/GLS-AVFF.md)
+- [Abelian Varieties over finite fields](GLS-AVFF.md)
 - Mazur's Eisenstein ideal paper
 
 
