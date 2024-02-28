@@ -21,12 +21,13 @@ References:
 - [Sil] Silverman, _Arithmetic of Elliptic Curves_
 - [AWS] Lassina Dembele's lecture notes. Find [here](https://swc-math.github.io/aws/2024/PAWSDembele/2023PAWSDembeleNotes.pdf)
 
+
 Schedule: 
 
-| Serial | Speaker | Topics Covered | Reference(s) used |
-| ------ | ------- | -------------- | ----------------- |
-|   1    | Sudarshan |              |                   |
-|   2    | Sudarshan |              |                   | 
+| Serial | Speaker   | Topics Covered | Reference(s) used |
+| ------ | --------- | -------------- | ----------------- |
+|   1    | Sudarshan |                |  [notes used]()                 |
+|   2    | Sudarshan |                |                   | 
 |   3    | Irish     | Endomorphism ring of abelian variety, Poincare reducibility theorem, Tate module, Weil pairing              |  [AWS] chapter 5, [Sil] chapter 3                 |
 |   4    | Irish     |              |                   |
 |   5    | Sudarshan |              |                   |

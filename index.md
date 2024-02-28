@@ -36,7 +36,8 @@ Although I am fairly interested in anything in number theory, the following topi
 - Prime Time seminar talk on Weil's 1949 paper "Number of solutions of equations in finite fields" announcing the Weil conjectures. Please find the notes for this talk [here](/files/Prime_time_Weil.pdf). To be updated soon. 
 - Hecke theory for automorphic representations in $GL_{1}$. Notes to be added soon. 
 - Exposition on Serre's conjecture on $2$ dimensional Galois representations. Notes to be added soon.
-- 
+- Open Day 2023 poster, [click here](/files/Open_Day_2023.pdf)
+- Open Day 2024 poster, [click here](/files/Open_Day_2024.pdf)
 
 
 ## **Contact Information**
