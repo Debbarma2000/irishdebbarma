@@ -39,10 +39,9 @@ katex: true
 - Commutative Algebra <span style = "color: teal;" > taken in Aug-Dec 2023</span> 
 - Linear Algebraic Groups  <span style = "color: teal;" > taken in Aug-Dec 2023</span> 
 - Topics in Number theory: Galois representations <span style = "color: teal;" > taken in Aug-Dec 2023</span> 
-- Topics in Number theory: Iwasawa Theory <span style = "color: teal;" > taking in Jan-April 2024</span> 
-- Topics in Number theory: p-adic L-functions <span style = "color: teal;" > taking in Jan-April 2024</span> 
-- Topics in Representation Theory: Bruhat-Tits theory <span style = "color: teal;" > taking in Jan-April 2024</span> 
-- Introduction to Homological Algebra <span style = "color: teal;" > taking in Jan-April 2024</span> 
+- Topics in Number theory: Iwasawa Theory <span style = "color: teal;" > taken in Jan-April 2024</span> 
+- Topics in Number theory: p-adic L-functions <span style = "color: teal;" > taken in Jan-April 2024</span> 
+- Introduction to Homological Algebra <span style = "color: teal;" > taken in Jan-April 2024</span> 
 
 
 I have made notes which cover Algebraic Geometry, Modular forms, elliptic curves, commutative algebra, representation theory and algebraic number theory. Find it [here](https://github.com/Debbarma2000/final-semester/tree/main/notes) I will complete it someday.

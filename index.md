@@ -6,7 +6,7 @@ menuorder: 1
 katex: true
 ---
 
-I am Irish Debbarma, a masters student at the Indian Institute of Science, Bangalore. I am majoring in mathematics from the Mathematics Department. I am from the state of Tripura in the North-Eastern part of India. You can find my CV [here](/files/Irish_CV.pdf)
+I am Irish Debbarma, a masters student at the Indian Institute of Science, Bangalore. I am majoring in mathematics from the Mathematics Department. I am from the state of Tripura in the North-Eastern part of India. You can find my CV [here](/files/CV_acad.pdf)
 
 Besides math, I am also interested in reading about history, geopolitics and linguistics. 
 
@@ -20,7 +20,8 @@ Although I am fairly interested in anything in number theory, the following topi
 
 ## Projects (Past and Current)
 
- - For my Master's thesis, I am reading Gross-Stark conjecture. In particular the work of Dasgupta-Darmon-Pollack and Dasgupta-Kakde-Ventullo. This project is being supervised by [Prof. Mahesh Kakde](http://math.iisc.ac.in/~maheshkakde/) at IISc Bangalore. A draft thesis can be found [here](/files/Masters_Thesis_A.pdf), the final thesis is [here](/files/thesisB.pdf)
+ - Currently, I am reading Coates-Wiles theorem from Coates-Wiles original paper.
+ - For my Master's thesis, I read the Gross-Stark conjecture. In particular the work of Dasgupta-Darmon-Pollack and Dasgupta-Kakde-Ventullo. This project is being supervised by [Prof. Mahesh Kakde](http://math.iisc.ac.in/~maheshkakde/) at IISc Bangalore. A draft thesis can be found [here](/files/Masters_Thesis_A.pdf), and the final thesis [here](/files/thesisB.pdf)
  - My Bachelor thesis (submitted at the end of Spring 2023) was on Tate's thesis _Fourier Analysis in Number Fields and Hecke's Zeta Functions_ under the guidance of [Prof. Mahesh Kakde](http://math.iisc.ac.in/~maheshkakde/) at IISc Bangalore. Please find a my thesis [here](/files/tate_extended_thesis.pdf)
  - In the spring semester 2023, we read Linear Algebraic Groups from T.A. Springer's _Linear Algebraic Groups_ with an aim to understand reductive groups. This was done under the guidance of [Prof. Shaunak Deo](https://sites.google.com/view/shaunakdeo/).
  - I studied $p$-adic $L$-functions from  _Introduction to Cyclotomic Fields_ by Lawrence Washington independently.
@@ -36,8 +37,8 @@ Although I am fairly interested in anything in number theory, the following topi
 - Prime Time seminar talk on Weil's 1949 paper "Number of solutions of equations in finite fields" announcing the Weil conjectures. Please find the notes for this talk [here](/files/Prime_time_Weil.pdf). To be updated soon. 
 - Hecke theory for automorphic representations in $GL_{1}$. Notes to be added soon. 
 - Exposition on Serre's conjecture on $2$ dimensional Galois representations. Notes to be added soon.
-- Open Day 2023 poster, [click here](/files/Open_Day_2023.pdf)
-- Open Day 2024 poster, [click here](/files/Open_Day_2024.pdf)
+- IISc Open Day 2023 poster, [click here](/files/Open_Day_2023.pdf)
+- IISc Open Day 2024 poster, [click here](/files/Open_Day_2024.pdf)
 
 
 ## **Contact Information**
